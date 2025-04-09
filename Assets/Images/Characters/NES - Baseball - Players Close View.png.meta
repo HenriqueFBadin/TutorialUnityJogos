@@ -1,0 +1,6728 @@
+fileFormatVersion: 2
+guid: db571a71919e7ad4e844bd7ce7ad8ba5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4239924275957598809
+    second: NES - Baseball - Players Close View_0
+  - first:
+      213: 1642314126144254148
+    second: NES - Baseball - Players Close View_1
+  - first:
+      213: 584851052745895419
+    second: NES - Baseball - Players Close View_2
+  - first:
+      213: 3720516494669047294
+    second: NES - Baseball - Players Close View_3
+  - first:
+      213: 7694826964674078302
+    second: NES - Baseball - Players Close View_4
+  - first:
+      213: 3898413755178166548
+    second: NES - Baseball - Players Close View_5
+  - first:
+      213: 5105894918987648982
+    second: NES - Baseball - Players Close View_6
+  - first:
+      213: 2710425401852946175
+    second: NES - Baseball - Players Close View_7
+  - first:
+      213: -7104880783530008098
+    second: NES - Baseball - Players Close View_8
+  - first:
+      213: 2283900877715716831
+    second: NES - Baseball - Players Close View_9
+  - first:
+      213: -2717499380459781615
+    second: NES - Baseball - Players Close View_10
+  - first:
+      213: -1519151178300277109
+    second: NES - Baseball - Players Close View_11
+  - first:
+      213: -443329806517740725
+    second: NES - Baseball - Players Close View_12
+  - first:
+      213: -6005849166943845686
+    second: NES - Baseball - Players Close View_13
+  - first:
+      213: 1504095618851567264
+    second: NES - Baseball - Players Close View_14
+  - first:
+      213: 787030983628471532
+    second: NES - Baseball - Players Close View_15
+  - first:
+      213: 5908379136515853370
+    second: NES - Baseball - Players Close View_16
+  - first:
+      213: 3736282424412112025
+    second: NES - Baseball - Players Close View_17
+  - first:
+      213: 4588021463858268776
+    second: NES - Baseball - Players Close View_18
+  - first:
+      213: 1311087664804737797
+    second: NES - Baseball - Players Close View_19
+  - first:
+      213: 5368817584644950795
+    second: NES - Baseball - Players Close View_20
+  - first:
+      213: -7557724091438512845
+    second: NES - Baseball - Players Close View_21
+  - first:
+      213: -7639939561499815116
+    second: NES - Baseball - Players Close View_22
+  - first:
+      213: -1110621457699951163
+    second: NES - Baseball - Players Close View_23
+  - first:
+      213: -4053985463213182920
+    second: NES - Baseball - Players Close View_24
+  - first:
+      213: -9141462823813021431
+    second: NES - Baseball - Players Close View_25
+  - first:
+      213: -8724874260424897942
+    second: NES - Baseball - Players Close View_26
+  - first:
+      213: 2909666990318721028
+    second: NES - Baseball - Players Close View_27
+  - first:
+      213: 5185349955532358691
+    second: NES - Baseball - Players Close View_28
+  - first:
+      213: 4258589876219713523
+    second: NES - Baseball - Players Close View_29
+  - first:
+      213: -9089071579101481250
+    second: NES - Baseball - Players Close View_30
+  - first:
+      213: 6844804635962082536
+    second: NES - Baseball - Players Close View_31
+  - first:
+      213: 3200416870035654237
+    second: NES - Baseball - Players Close View_32
+  - first:
+      213: 3768406393415793962
+    second: NES - Baseball - Players Close View_33
+  - first:
+      213: 1572752069244924509
+    second: NES - Baseball - Players Close View_34
+  - first:
+      213: 343005140099899113
+    second: NES - Baseball - Players Close View_35
+  - first:
+      213: -2855079063474511096
+    second: NES - Baseball - Players Close View_36
+  - first:
+      213: 9201977717120525811
+    second: NES - Baseball - Players Close View_37
+  - first:
+      213: -7295145282967855448
+    second: NES - Baseball - Players Close View_38
+  - first:
+      213: -1463028116253892392
+    second: NES - Baseball - Players Close View_39
+  - first:
+      213: 1218058349867255349
+    second: NES - Baseball - Players Close View_40
+  - first:
+      213: 7243498917702789392
+    second: NES - Baseball - Players Close View_41
+  - first:
+      213: -3057292997350314360
+    second: NES - Baseball - Players Close View_42
+  - first:
+      213: 7323037412446754299
+    second: NES - Baseball - Players Close View_43
+  - first:
+      213: 6631521929910485766
+    second: NES - Baseball - Players Close View_44
+  - first:
+      213: 5153760199930175888
+    second: NES - Baseball - Players Close View_45
+  - first:
+      213: -5409512783073229
+    second: NES - Baseball - Players Close View_46
+  - first:
+      213: -5583523430567627735
+    second: NES - Baseball - Players Close View_47
+  - first:
+      213: 5819683461438338873
+    second: NES - Baseball - Players Close View_48
+  - first:
+      213: -6560844541237794056
+    second: NES - Baseball - Players Close View_49
+  - first:
+      213: -8928135408513358906
+    second: NES - Baseball - Players Close View_50
+  - first:
+      213: -3582436445838770775
+    second: NES - Baseball - Players Close View_51
+  - first:
+      213: -5832030895598064479
+    second: NES - Baseball - Players Close View_52
+  - first:
+      213: 583805306764676316
+    second: NES - Baseball - Players Close View_53
+  - first:
+      213: 2366048375946397665
+    second: NES - Baseball - Players Close View_54
+  - first:
+      213: 872212783224175459
+    second: NES - Baseball - Players Close View_55
+  - first:
+      213: -2211920606042016765
+    second: NES - Baseball - Players Close View_56
+  - first:
+      213: -3592694542063768139
+    second: NES - Baseball - Players Close View_57
+  - first:
+      213: -6701352287473876772
+    second: NES - Baseball - Players Close View_58
+  - first:
+      213: 2763662191652751641
+    second: NES - Baseball - Players Close View_59
+  - first:
+      213: -1979679839398337168
+    second: NES - Baseball - Players Close View_60
+  - first:
+      213: 5131772591897773498
+    second: NES - Baseball - Players Close View_61
+  - first:
+      213: -3389111670488141266
+    second: NES - Baseball - Players Close View_62
+  - first:
+      213: 7271970119363209507
+    second: NES - Baseball - Players Close View_63
+  - first:
+      213: -6782778156110775047
+    second: NES - Baseball - Players Close View_64
+  - first:
+      213: -313824465735347708
+    second: NES - Baseball - Players Close View_65
+  - first:
+      213: 3711151698080488213
+    second: NES - Baseball - Players Close View_66
+  - first:
+      213: 2418945382449752948
+    second: NES - Baseball - Players Close View_67
+  - first:
+      213: -1631019480861971991
+    second: NES - Baseball - Players Close View_68
+  - first:
+      213: -4264426807998641335
+    second: NES - Baseball - Players Close View_69
+  - first:
+      213: 5299553751691081241
+    second: NES - Baseball - Players Close View_70
+  - first:
+      213: -5914777515443356827
+    second: NES - Baseball - Players Close View_71
+  - first:
+      213: -7193477723708147831
+    second: NES - Baseball - Players Close View_72
+  - first:
+      213: 7566279906992695154
+    second: NES - Baseball - Players Close View_73
+  - first:
+      213: -2978348724612752351
+    second: NES - Baseball - Players Close View_74
+  - first:
+      213: -5978189558332201203
+    second: NES - Baseball - Players Close View_75
+  - first:
+      213: 6940504463444469737
+    second: NES - Baseball - Players Close View_76
+  - first:
+      213: 6764730245907698238
+    second: NES - Baseball - Players Close View_77
+  - first:
+      213: -4303667248118325389
+    second: NES - Baseball - Players Close View_78
+  - first:
+      213: 1430256097416791463
+    second: NES - Baseball - Players Close View_79
+  - first:
+      213: 178176158763103727
+    second: NES - Baseball - Players Close View_80
+  - first:
+      213: 3550193989378974736
+    second: NES - Baseball - Players Close View_81
+  - first:
+      213: 8855409011813495298
+    second: NES - Baseball - Players Close View_82
+  - first:
+      213: 5618959896668149402
+    second: NES - Baseball - Players Close View_83
+  - first:
+      213: 6855260389432666472
+    second: NES - Baseball - Players Close View_84
+  - first:
+      213: -7088268333766527285
+    second: NES - Baseball - Players Close View_85
+  - first:
+      213: 832075460708543384
+    second: NES - Baseball - Players Close View_86
+  - first:
+      213: 3214885022866491904
+    second: NES - Baseball - Players Close View_87
+  - first:
+      213: -6324648465565069573
+    second: NES - Baseball - Players Close View_88
+  - first:
+      213: 4154208076430178907
+    second: NES - Baseball - Players Close View_89
+  - first:
+      213: 8578790535334540140
+    second: NES - Baseball - Players Close View_90
+  - first:
+      213: -4270255427303166542
+    second: NES - Baseball - Players Close View_91
+  - first:
+      213: 7948733810520528868
+    second: NES - Baseball - Players Close View_92
+  - first:
+      213: 2606179044446579849
+    second: NES - Baseball - Players Close View_93
+  - first:
+      213: 5183982451623977741
+    second: NES - Baseball - Players Close View_94
+  - first:
+      213: -4767502473028618484
+    second: NES - Baseball - Players Close View_95
+  - first:
+      213: -5953613548721761101
+    second: NES - Baseball - Players Close View_96
+  - first:
+      213: 6699666247308881150
+    second: NES - Baseball - Players Close View_97
+  - first:
+      213: 332804328172239795
+    second: NES - Baseball - Players Close View_98
+  - first:
+      213: 157925567113293385
+    second: NES - Baseball - Players Close View_99
+  - first:
+      213: -1822140347146225629
+    second: NES - Baseball - Players Close View_100
+  - first:
+      213: -6529896871326546725
+    second: NES - Baseball - Players Close View_101
+  - first:
+      213: -8730427813225981236
+    second: NES - Baseball - Players Close View_102
+  - first:
+      213: -4243009397482880808
+    second: NES - Baseball - Players Close View_103
+  - first:
+      213: -6692540549850110586
+    second: NES - Baseball - Players Close View_104
+  - first:
+      213: -3299641292174489590
+    second: NES - Baseball - Players Close View_105
+  - first:
+      213: -3963926810284749249
+    second: NES - Baseball - Players Close View_106
+  - first:
+      213: -874369694637861060
+    second: NES - Baseball - Players Close View_107
+  - first:
+      213: 907261991298010194
+    second: NES - Baseball - Players Close View_108
+  - first:
+      213: 5023953742062850971
+    second: NES - Baseball - Players Close View_109
+  - first:
+      213: -3685667542282358864
+    second: NES - Baseball - Players Close View_110
+  - first:
+      213: -7568324042398088358
+    second: NES - Baseball - Players Close View_111
+  - first:
+      213: -5491414179988310801
+    second: NES - Baseball - Players Close View_112
+  - first:
+      213: -8941545543430216212
+    second: NES - Baseball - Players Close View_113
+  - first:
+      213: 8564687892851882219
+    second: NES - Baseball - Players Close View_114
+  - first:
+      213: -791890956270876351
+    second: NES - Baseball - Players Close View_115
+  - first:
+      213: 6899899252782312113
+    second: NES - Baseball - Players Close View_116
+  - first:
+      213: 4470149554140444375
+    second: NES - Baseball - Players Close View_117
+  - first:
+      213: 5391248386782387719
+    second: NES - Baseball - Players Close View_118
+  - first:
+      213: -3951345500111722534
+    second: NES - Baseball - Players Close View_119
+  - first:
+      213: 5968326589793909028
+    second: NES - Baseball - Players Close View_120
+  - first:
+      213: -8379568741226494946
+    second: NES - Baseball - Players Close View_121
+  - first:
+      213: 4746689545540989299
+    second: NES - Baseball - Players Close View_122
+  - first:
+      213: -5484475605565388024
+    second: NES - Baseball - Players Close View_123
+  - first:
+      213: -1718813070330514856
+    second: NES - Baseball - Players Close View_124
+  - first:
+      213: 2889222014556716458
+    second: NES - Baseball - Players Close View_125
+  - first:
+      213: 2715789623985293105
+    second: NES - Baseball - Players Close View_126
+  - first:
+      213: -1400063207235921468
+    second: NES - Baseball - Players Close View_127
+  - first:
+      213: -1235144455801670216
+    second: NES - Baseball - Players Close View_128
+  - first:
+      213: 1760338321155262041
+    second: NES - Baseball - Players Close View_129
+  - first:
+      213: -184428763120334335
+    second: NES - Baseball - Players Close View_130
+  - first:
+      213: -5909612725508241741
+    second: NES - Baseball - Players Close View_131
+  - first:
+      213: 5536827370318388126
+    second: NES - Baseball - Players Close View_132
+  - first:
+      213: -4075020372958518117
+    second: NES - Baseball - Players Close View_133
+  - first:
+      213: -4591859257233998387
+    second: NES - Baseball - Players Close View_134
+  - first:
+      213: -5840747847843588015
+    second: NES - Baseball - Players Close View_135
+  - first:
+      213: 469171535168286583
+    second: NES - Baseball - Players Close View_136
+  - first:
+      213: -8267716592159665220
+    second: NES - Baseball - Players Close View_137
+  - first:
+      213: -8712807760357550389
+    second: NES - Baseball - Players Close View_138
+  - first:
+      213: -305874889310577463
+    second: NES - Baseball - Players Close View_139
+  - first:
+      213: 9025196638369927353
+    second: NES - Baseball - Players Close View_140
+  - first:
+      213: 8062347387660747824
+    second: NES - Baseball - Players Close View_141
+  - first:
+      213: -2071462609160463699
+    second: NES - Baseball - Players Close View_142
+  - first:
+      213: -2909986638763733176
+    second: NES - Baseball - Players Close View_143
+  - first:
+      213: -254770951612499492
+    second: NES - Baseball - Players Close View_144
+  - first:
+      213: 8774281157007830110
+    second: NES - Baseball - Players Close View_145
+  - first:
+      213: -1057885918360867203
+    second: NES - Baseball - Players Close View_146
+  - first:
+      213: -880653368783687698
+    second: NES - Baseball - Players Close View_147
+  - first:
+      213: -7328240395620325627
+    second: NES - Baseball - Players Close View_148
+  - first:
+      213: 524926466097396880
+    second: NES - Baseball - Players Close View_149
+  - first:
+      213: -4756560597407167834
+    second: NES - Baseball - Players Close View_150
+  - first:
+      213: -128910095840214593
+    second: NES - Baseball - Players Close View_151
+  - first:
+      213: 6670682066651242016
+    second: NES - Baseball - Players Close View_152
+  - first:
+      213: 5413010556072457022
+    second: NES - Baseball - Players Close View_153
+  - first:
+      213: 3049032853915569503
+    second: NES - Baseball - Players Close View_154
+  - first:
+      213: 6350667804918040367
+    second: NES - Baseball - Players Close View_155
+  - first:
+      213: -4808081553170939190
+    second: NES - Baseball - Players Close View_156
+  - first:
+      213: 250010089493872126
+    second: NES - Baseball - Players Close View_157
+  - first:
+      213: -752630160730721446
+    second: NES - Baseball - Players Close View_158
+  - first:
+      213: -8246087589410857295
+    second: NES - Baseball - Players Close View_159
+  - first:
+      213: 7432812526957266422
+    second: NES - Baseball - Players Close View_160
+  - first:
+      213: -679637030569833481
+    second: NES - Baseball - Players Close View_161
+  - first:
+      213: 4434420828840239730
+    second: NES - Baseball - Players Close View_162
+  - first:
+      213: -2205913697975686113
+    second: NES - Baseball - Players Close View_163
+  - first:
+      213: 8768790732894584342
+    second: NES - Baseball - Players Close View_164
+  - first:
+      213: 8140248919676064799
+    second: NES - Baseball - Players Close View_165
+  - first:
+      213: 6972721280730155292
+    second: NES - Baseball - Players Close View_166
+  - first:
+      213: -2225671767949179381
+    second: NES - Baseball - Players Close View_167
+  - first:
+      213: -625233112777586865
+    second: NES - Baseball - Players Close View_168
+  - first:
+      213: 4415569392407245159
+    second: NES - Baseball - Players Close View_169
+  - first:
+      213: 1495369278692484221
+    second: NES - Baseball - Players Close View_170
+  - first:
+      213: -2396395219098228969
+    second: NES - Baseball - Players Close View_171
+  - first:
+      213: 7922437269975005690
+    second: NES - Baseball - Players Close View_172
+  - first:
+      213: -79846679039155293
+    second: NES - Baseball - Players Close View_173
+  - first:
+      213: -3450686386346900560
+    second: NES - Baseball - Players Close View_174
+  - first:
+      213: 5854971644584800599
+    second: NES - Baseball - Players Close View_175
+  - first:
+      213: -4639967059952443903
+    second: NES - Baseball - Players Close View_176
+  - first:
+      213: -5833238449521880081
+    second: NES - Baseball - Players Close View_177
+  - first:
+      213: -7407761137515334119
+    second: NES - Baseball - Players Close View_178
+  - first:
+      213: -4529175381106849024
+    second: NES - Baseball - Players Close View_179
+  - first:
+      213: 9089193308886350681
+    second: NES - Baseball - Players Close View_180
+  - first:
+      213: -4269353512166490944
+    second: NES - Baseball - Players Close View_181
+  - first:
+      213: 5251741780827535411
+    second: NES - Baseball - Players Close View_182
+  - first:
+      213: -7588916523753558176
+    second: NES - Baseball - Players Close View_183
+  - first:
+      213: 4052515102734117271
+    second: NES - Baseball - Players Close View_184
+  - first:
+      213: 478737097802933699
+    second: NES - Baseball - Players Close View_185
+  - first:
+      213: -4015348235608324462
+    second: NES - Baseball - Players Close View_186
+  - first:
+      213: 2527784909815709187
+    second: NES - Baseball - Players Close View_187
+  - first:
+      213: -4795580009107538535
+    second: NES - Baseball - Players Close View_188
+  - first:
+      213: 7901650467430826771
+    second: NES - Baseball - Players Close View_189
+  - first:
+      213: 4075955910532453208
+    second: NES - Baseball - Players Close View_190
+  - first:
+      213: -1703728054514008276
+    second: NES - Baseball - Players Close View_191
+  - first:
+      213: 573252610116046830
+    second: NES - Baseball - Players Close View_192
+  - first:
+      213: -6140615784912944683
+    second: NES - Baseball - Players Close View_193
+  - first:
+      213: 5805266213036219973
+    second: NES - Baseball - Players Close View_194
+  - first:
+      213: -8326288344824690438
+    second: NES - Baseball - Players Close View_195
+  - first:
+      213: -2508219549275610428
+    second: NES - Baseball - Players Close View_196
+  - first:
+      213: 105903583749666835
+    second: NES - Baseball - Players Close View_197
+  - first:
+      213: 1374348481526332043
+    second: NES - Baseball - Players Close View_198
+  - first:
+      213: -2521452371037745223
+    second: NES - Baseball - Players Close View_199
+  - first:
+      213: -6671017093673748465
+    second: NES - Baseball - Players Close View_200
+  - first:
+      213: -8444366622852981861
+    second: NES - Baseball - Players Close View_201
+  - first:
+      213: 1270578508851980108
+    second: NES - Baseball - Players Close View_202
+  - first:
+      213: 5055007569203956049
+    second: NES - Baseball - Players Close View_203
+  - first:
+      213: 3059455378472736058
+    second: NES - Baseball - Players Close View_204
+  - first:
+      213: -8002498946082066939
+    second: NES - Baseball - Players Close View_205
+  - first:
+      213: 4558190643162374944
+    second: NES - Baseball - Players Close View_206
+  - first:
+      213: -3631642608649562967
+    second: NES - Baseball - Players Close View_207
+  - first:
+      213: 7594331658240462720
+    second: NES - Baseball - Players Close View_208
+  - first:
+      213: -3342030710707902406
+    second: NES - Baseball - Players Close View_209
+  - first:
+      213: 2925920088434262522
+    second: NES - Baseball - Players Close View_210
+  - first:
+      213: 5826678160268299767
+    second: NES - Baseball - Players Close View_211
+  - first:
+      213: 9085135956268733140
+    second: NES - Baseball - Players Close View_212
+  - first:
+      213: 6177815154735560133
+    second: NES - Baseball - Players Close View_213
+  - first:
+      213: 6924487096005124612
+    second: NES - Baseball - Players Close View_214
+  - first:
+      213: -3909862354857577539
+    second: NES - Baseball - Players Close View_215
+  - first:
+      213: -1550954298158381668
+    second: NES - Baseball - Players Close View_216
+  - first:
+      213: 5036953097071690474
+    second: NES - Baseball - Players Close View_217
+  - first:
+      213: -3096065684468876542
+    second: NES - Baseball - Players Close View_218
+  - first:
+      213: 4471070642228660365
+    second: NES - Baseball - Players Close View_219
+  - first:
+      213: 822602501185721132
+    second: NES - Baseball - Players Close View_220
+  - first:
+      213: 6203638087691479171
+    second: NES - Baseball - Players Close View_221
+  - first:
+      213: -5384697557816514489
+    second: NES - Baseball - Players Close View_222
+  - first:
+      213: 6623055415501438278
+    second: NES - Baseball - Players Close View_223
+  - first:
+      213: -7493810299108474609
+    second: NES - Baseball - Players Close View_224
+  - first:
+      213: -2954241075109181517
+    second: NES - Baseball - Players Close View_225
+  - first:
+      213: 2330587226106744504
+    second: NES - Baseball - Players Close View_226
+  - first:
+      213: -4053942547114591683
+    second: NES - Baseball - Players Close View_227
+  - first:
+      213: -7733620139444145424
+    second: NES - Baseball - Players Close View_228
+  - first:
+      213: -7909284111972088811
+    second: NES - Baseball - Players Close View_229
+  - first:
+      213: 6986761136882497438
+    second: NES - Baseball - Players Close View_230
+  - first:
+      213: 8344612504023655106
+    second: NES - Baseball - Players Close View_231
+  - first:
+      213: 8615995287437307312
+    second: NES - Baseball - Players Close View_232
+  - first:
+      213: -6601813102088156199
+    second: NES - Baseball - Players Close View_233
+  - first:
+      213: 2910498076600057243
+    second: NES - Baseball - Players Close View_234
+  - first:
+      213: 6420657892302905072
+    second: NES - Baseball - Players Close View_235
+  - first:
+      213: 1746069167477610043
+    second: NES - Baseball - Players Close View_236
+  - first:
+      213: 7192211330846639539
+    second: NES - Baseball - Players Close View_237
+  - first:
+      213: 1033964500891796877
+    second: NES - Baseball - Players Close View_238
+  - first:
+      213: -5640964830650792284
+    second: NES - Baseball - Players Close View_239
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5fdf8c553c825c0800000000000000
+      internalID: -4239924275957598809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 456
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c03f621ffbaac610800000000000000
+      internalID: 1642314126144254148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 456
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdae6d0feecd1800800000000000000
+      internalID: 584851052745895419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 456
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5eabd2a0ee1a330800000000000000
+      internalID: 3720516494669047294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 452
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56ee7dfa5489ca60800000000000000
+      internalID: 7694826964674078302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_5
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 454
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41924e8d7a2f91630800000000000000
+      internalID: 3898413755178166548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 452
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df0bba6068cbd640800000000000000
+      internalID: 5105894918987648982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 447
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6e3a3ea8d5d9520800000000000000
+      internalID: 2710425401852946175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_8
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 456
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1e1361294666d90800000000000000
+      internalID: -7104880783530008098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_9
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 456
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdab2766fbb02bf10800000000000000
+      internalID: 2283900877715716831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_10
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 456
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112c95e16b0894ad0800000000000000
+      internalID: -2717499380459781615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_11
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 456
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ebb495d04eaeae0800000000000000
+      internalID: -1519151178300277109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_12
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 456
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bda2cc3e9f8d9f0800000000000000
+      internalID: -443329806517740725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_13
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 456
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac28cb5c000f6aca0800000000000000
+      internalID: -6005849166943845686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_14
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 456
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a67edd0ffe9fd410800000000000000
+      internalID: 1504095618851567264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_15
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 450
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cecb66e72881cea00800000000000000
+      internalID: 787030983628471532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_16
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 456
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c4b5e4587cef150800000000000000
+      internalID: 5908379136515853370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_17
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 448
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9948e9fb111f9d330800000000000000
+      internalID: 3736282424412112025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_18
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 425
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ac327863debaf30800000000000000
+      internalID: 4588021463858268776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_19
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 456
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5033512e84be13210800000000000000
+      internalID: 1311087664804737797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_20
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 456
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b02a4e52fd18a40800000000000000
+      internalID: 5368817584644950795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_21
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 456
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335456b3bf19d1790800000000000000
+      internalID: -7557724091438512845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 416
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433995b627b79f590800000000000000
+      internalID: -7639939561499815116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_23
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 416
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd2ed52ba74690f0800000000000000
+      internalID: -1110621457699951163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830b49c33b95db7c0800000000000000
+      internalID: -4053985463213182920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_25
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 416
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9018f2bcefff22180800000000000000
+      internalID: -9141462823813021431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_26
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 416
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6acc6526150be680800000000000000
+      internalID: -8724874260424897942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 392
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40890ac26b6316820800000000000000
+      internalID: 2909666990318721028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_28
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 411
+        width: 11
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3240897bf4016f740800000000000000
+      internalID: 5185349955532358691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f79620fdec891b30800000000000000
+      internalID: 4258589876219713523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_30
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 413
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6be850e812dd180800000000000000
+      internalID: -9089071579101481250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_31
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 401
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e487731d81adfe50800000000000000
+      internalID: 6844804635962082536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_32
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 416
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5684afcf2a2a6c20800000000000000
+      internalID: 3200416870035654237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_33
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 416
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2dfbd026a11c4430800000000000000
+      internalID: 3768406393415793962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_34
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 364
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52ba179ca983d510800000000000000
+      internalID: 1572752069244924509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_35
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 392
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee99cb8b5992c400800000000000000
+      internalID: 343005140099899113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80362f7f7b8b068d0800000000000000
+      internalID: -2855079063474511096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_37
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 392
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f56704cafdf3bf70800000000000000
+      internalID: 9201977717120525811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae95d7340072ca90800000000000000
+      internalID: -7295145282967855448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_39
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d027420ea742bbe0800000000000000
+      internalID: -1463028116253892392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_40
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536498b9d9967e010800000000000000
+      internalID: 1218058349867255349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_41
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 381
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019e99053e3168460800000000000000
+      internalID: 7243498917702789392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_42
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 392
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e25a697305295d0800000000000000
+      internalID: -3057292997350314360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_43
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 392
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5d8cd3ab7a0a560800000000000000
+      internalID: 7323037412446754299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_44
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 392
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60307885f06e70c50800000000000000
+      internalID: 6631521929910485766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_45
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 392
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09162669895d58740800000000000000
+      internalID: 5153760199930175888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_46
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 392
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3303828a318cceff0800000000000000
+      internalID: -5409512783073229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_47
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92432fdc5075382b0800000000000000
+      internalID: -5583523430567627735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_48
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9377f30364ba3c050800000000000000
+      internalID: 5819683461438338873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_49
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 392
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fae5fc86a233f4a0800000000000000
+      internalID: -6560844541237794056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_50
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 392
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c369f43624e81480800000000000000
+      internalID: -8928135408513358906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_51
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 368
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9adfd577801a84ec0800000000000000
+      internalID: -3582436445838770775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_52
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 368
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac26c4ccc6701fa0800000000000000
+      internalID: -5832030895598064479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_53
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 368
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc42b755d71a1800800000000000000
+      internalID: 583805306764676316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_54
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 360
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7cca94674e5d020800000000000000
+      internalID: 2366048375946397665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_55
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 334
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bb1a8b7e8ba1c00800000000000000
+      internalID: 872212783224175459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_56
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 360
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304bf759dedad41e0800000000000000
+      internalID: -2211920606042016765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_57
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 325
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdedc1595f242ec0800000000000000
+      internalID: -3592694542063768139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_58
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 368
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd04e5e89930003a0800000000000000
+      internalID: -6701352287473876772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_59
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 368
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919c3acee108a5620800000000000000
+      internalID: 2763662191652751641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_60
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 368
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075e8a3cca3c684e0800000000000000
+      internalID: -1979679839398337168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_61
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 360
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab50728abf7b73740800000000000000
+      internalID: 5131772591897773498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_62
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 336
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e227c6854e477f0d0800000000000000
+      internalID: -3389111670488141266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_63
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 345
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32926e58b4a3be460800000000000000
+      internalID: 7271970119363209507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fcfcb6243bbed1a0800000000000000
+      internalID: -6782778156110775047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_65
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 344
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4029406af4215abf0800000000000000
+      internalID: -313824465735347708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_66
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 344
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bdcaf8ec8a08330800000000000000
+      internalID: 3711151698080488213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_67
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 344
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b2dfb5202d19120800000000000000
+      internalID: 2418945382449752948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_68
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 353
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9ea757c647d59e0800000000000000
+      internalID: -1631019480861971991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_69
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 344
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b869a7966b1d4c0800000000000000
+      internalID: -4264426807998641335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_70
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 344
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916b2a51f0ccb8940800000000000000
+      internalID: 5299553751691081241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_71
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 340
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bf782003d7aeda0800000000000000
+      internalID: -5914777515443356827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_72
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 344
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987b0ba7f12ab2c90800000000000000
+      internalID: -7193477723708147831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_73
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 345
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277a97fcc73d00960800000000000000
+      internalID: 7566279906992695154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_74
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 318
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c183c6d97caa6d0800000000000000
+      internalID: -2978348724612752351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_75
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 320
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07e8af3544390da0800000000000000
+      internalID: -5978189558332201203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_76
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 320
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7ee918900a15060800000000000000
+      internalID: 6940504463444469737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_77
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 296
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e325bac415621ed50800000000000000
+      internalID: 6764730245907698238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_78
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 320
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f9c6c807d4644c0800000000000000
+      internalID: -4303667248118325389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_79
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 320
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a54d50c75a49d310800000000000000
+      internalID: 1430256097416791463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_80
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 320
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5b48ab542097200800000000000000
+      internalID: 178176158763103727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_81
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 296
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01429a4af92d44130800000000000000
+      internalID: 3550193989378974736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_82
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 296
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202bfe9049bb4ea70800000000000000
+      internalID: 8855409011813495298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_83
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 296
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a961218614e8afd40800000000000000
+      internalID: 5618959896668149402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_84
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 296
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869a0f2e007c22f50800000000000000
+      internalID: 6855260389432666472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_85
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 296
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc63235718961ad90800000000000000
+      internalID: -7088268333766527285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_86
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 296
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b2ad519302c8b00800000000000000
+      internalID: 832075460708543384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_87
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 292
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a4ea525e09d9c20800000000000000
+      internalID: 3214885022866491904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe46c0eab55a38a0800000000000000
+      internalID: -6324648465565069573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_89
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 296
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5afdae4c36b6a930800000000000000
+      internalID: 4154208076430178907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_90
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 296
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63391d1a8cfd0770800000000000000
+      internalID: 8578790535334540140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_91
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 296
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd296b40510db4c0800000000000000
+      internalID: -4270255427303166542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_92
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 296
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7963659439f4e60800000000000000
+      internalID: 7948733810520528868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_93
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 296
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c2e4568020b2420800000000000000
+      internalID: 2606179044446579849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_94
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 296
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03e7e6e29431f740800000000000000
+      internalID: 5183982451623977741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_95
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 290
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07355592cd66ddb0800000000000000
+      internalID: -4767502473028618484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_96
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 296
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b49c726504806da0800000000000000
+      internalID: -5953613548721761101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_97
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 288
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc2580a4fef9fc50800000000000000
+      internalID: 6699666247308881150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_98
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 287
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb3b60f5cb5e9400800000000000000
+      internalID: 332804328172239795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_99
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 296
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e6db07770113200800000000000000
+      internalID: 157925567113293385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_100
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 296
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3283175220576b6e0800000000000000
+      internalID: -1822140347146225629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_101
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 296
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd485a474652165a0800000000000000
+      internalID: -6529896871326546725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_102
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 256
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca997fd82a47d680800000000000000
+      internalID: -8730427813225981236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_103
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d08364fe6dcd15c0800000000000000
+      internalID: -4243009397482880808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_104
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 256
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685694914d15f13a0800000000000000
+      internalID: -6692540549850110586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_105
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a088abd1ab15532d0800000000000000
+      internalID: -3299641292174489590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_106
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 256
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e845d519d4df8c0800000000000000
+      internalID: -3963926810284749249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_107
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 256
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c375eb4356d9dd3f0800000000000000
+      internalID: -874369694637861060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_108
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 232
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c088569fd379c00800000000000000
+      internalID: 907261991298010194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_109
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 232
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9396a37f4ba8b540800000000000000
+      internalID: 5023953742062850971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_110
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 251
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfa216d5e0e9dcc0800000000000000
+      internalID: -3685667542282358864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_111
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5340d3d169e7f690800000000000000
+      internalID: -7568324042398088358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_112
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 253
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4f047e5e39ac3b0800000000000000
+      internalID: -5491414179988310801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_113
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 241
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce56ddcd3bf39e380800000000000000
+      internalID: -8941545543430216212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_114
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 256
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be87689c242ebd670800000000000000
+      internalID: 8564687892851882219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_115
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 253
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14941a2fe53a205f0800000000000000
+      internalID: -791890956270876351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_116
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 232
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1baa21c20dd51cf50800000000000000
+      internalID: 6899899252782312113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_117
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 232
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6796be559290e30800000000000000
+      internalID: 4470149554140444375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70edf0ef7df81da40800000000000000
+      internalID: 5391248386782387719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_119
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 232
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7a009e3300a29c0800000000000000
+      internalID: -3951345500111722534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_120
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 184
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4293f207961c3d250800000000000000
+      internalID: 5968326589793909028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_121
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 208
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e144a3070aac5bb80800000000000000
+      internalID: -8379568741226494946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_122
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 232
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371f70d1ef0afd140800000000000000
+      internalID: 4746689545540989299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_123
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 232
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bcaf6ae7a33e3b0800000000000000
+      internalID: -5484475605565388024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_124
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 208
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852b6a38e9c8528e0800000000000000
+      internalID: -1718813070330514856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_125
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 184
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad34ee4d14981820800000000000000
+      internalID: 2889222014556716458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_126
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 232
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137c55e264c60b520800000000000000
+      internalID: 2715789623985293105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_127
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 208
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9db9d4ee9f19ce0800000000000000
+      internalID: -1400063207235921468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_128
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 181
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5f5a959a2ebdee0800000000000000
+      internalID: -1235144455801670216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_129
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 200
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95687fc506afd6810800000000000000
+      internalID: 1760338321155262041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_130
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a09df5407c07df0800000000000000
+      internalID: -184428763120334335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_131
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b604ff5986dcfda0800000000000000
+      internalID: -5909612725508241741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_132
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 200
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bdc7e6823c6dc40800000000000000
+      internalID: 5536827370318388126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_133
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94e359af8e9277c0800000000000000
+      internalID: -4075020372958518117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_134
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 220
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd7af195507640c0800000000000000
+      internalID: -4591859257233998387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_135
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 232
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158d7aa27ce71fea0800000000000000
+      internalID: -5840747847843588015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_136
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 184
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f2e648605d28600800000000000000
+      internalID: 469171535168286583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_137
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 172
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb358bc409b234d80800000000000000
+      internalID: -8267716592159665220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_138
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 193
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc61f9f1183e51780800000000000000
+      internalID: -8712807760357550389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_139
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 184
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc5ee4a86051cbf0800000000000000
+      internalID: -305874889310577463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_140
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 232
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0d61a6680ff3d70800000000000000
+      internalID: 9025196638369927353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_141
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 184
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0344151ab3633ef60800000000000000
+      internalID: 8062347387660747824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_142
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 208
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa9c776bbfa043e0800000000000000
+      internalID: -2071462609160463699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_143
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 232
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fca5fd196ad97d0800000000000000
+      internalID: -2909986638763733176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_144
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 232
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd97c0a5b2fd67cf0800000000000000
+      internalID: -254770951612499492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_145
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 208
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cead2693284c970800000000000000
+      internalID: 8774281157007830110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_146
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 184
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e6637bc52a151f0800000000000000
+      internalID: -1057885918360867203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_147
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 232
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefa56f4d6a47c3f0800000000000000
+      internalID: -880653368783687698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_148
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 208
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507e166df2cdc4a90800000000000000
+      internalID: -7328240395620325627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_149
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 180
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cbfe8f6d9e84700800000000000000
+      internalID: 524926466097396880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_150
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 200
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa0de6865d4dfdb0800000000000000
+      internalID: -4756560597407167834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_151
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb18b7963f4063ef0800000000000000
+      internalID: -128910095840214593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_152
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 174
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ed0503ff5039c50800000000000000
+      internalID: 6670682066651242016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_153
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e337320eb60ee1b40800000000000000
+      internalID: 5413010556072457022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_154
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 232
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d0226e937505a20800000000000000
+      internalID: 3049032853915569503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_155
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 200
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2746a6a8ba122850800000000000000
+      internalID: 6350667804918040367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_156
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 185
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2432c3d43464db0800000000000000
+      internalID: -4808081553170939190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_157
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 184
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdbb8e0ad6387300800000000000000
+      internalID: 250010089493872126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_158
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53766e3bde1e85f0800000000000000
+      internalID: -752630160730721446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_159
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 136
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be986ee603009d80800000000000000
+      internalID: -8246087589410857295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_160
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 160
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f58c5fcc97a62760800000000000000
+      internalID: 7432812526957266422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_161
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 160
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb0fa8b8b17196f0800000000000000
+      internalID: -679637030569833481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_162
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 132
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272ad9fcf3a3a8d30800000000000000
+      internalID: 4434420828840239730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_163
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 136
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1cadfadd250361e0800000000000000
+      internalID: -2205913697975686113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_164
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 158
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e3be766b001b970800000000000000
+      internalID: 8768790732894584342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_165
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 160
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f149c887349f7f070800000000000000
+      internalID: 8140248919676064799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_166
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 160
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c194abfcf0514c060800000000000000
+      internalID: 6972721280730155292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_167
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 136
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0606c4b153dc11e0800000000000000
+      internalID: -2225671767949179381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_168
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 136
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47841bebc9b257f0800000000000000
+      internalID: -625233112777586865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_169
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 136
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761758bb7f0474d30800000000000000
+      internalID: 4415569392407245159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_170
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 136
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d746f78af6e90c410800000000000000
+      internalID: 1495369278692484221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_171
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 136
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717a430be3b4ebed0800000000000000
+      internalID: -2396395219098228969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_172
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 148
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9fc20e8b622fd60800000000000000
+      internalID: 7922437269975005690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_173
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a360635ed354eef0800000000000000
+      internalID: -79846679039155293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_174
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 136
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3448e9303bc10d0800000000000000
+      internalID: -3450686386346900560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_175
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 136
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751367590b9014150800000000000000
+      internalID: 5854971644584800599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_176
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 136
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e5506ea868b9fb0800000000000000
+      internalID: -4639967059952443903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_177
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 136
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe31916398c2c0fa0800000000000000
+      internalID: -5833238449521880081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_178
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 136
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91674715e78523990800000000000000
+      internalID: -7407761137515334119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_179
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 136
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b8eabccf22521c0800000000000000
+      internalID: -4529175381106849024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_180
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 132
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b3707682d432e70800000000000000
+      internalID: 9089193308886350681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_181
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 134
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccffb6c99530c4c0800000000000000
+      internalID: -4269353512166490944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_182
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 132
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3387d42235fe1e840800000000000000
+      internalID: 5251741780827535411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_183
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 127
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fa39321a0cea690800000000000000
+      internalID: -7588916523753558176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_184
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 136
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7996f59c30d6d3830800000000000000
+      internalID: 4052515102734117271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_185
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 136
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5685f9ad0d4a600800000000000000
+      internalID: 478737097802933699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_186
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 136
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296031fcd0e9648c0800000000000000
+      internalID: -4015348235608324462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_187
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 132
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e78229bfe741320800000000000000
+      internalID: 2527784909815709187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_188
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 132
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d3e29c36da27db0800000000000000
+      internalID: -4795580009107538535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_189
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 96
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31383824c3d48ad60800000000000000
+      internalID: 7901650467430826771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_190
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 124
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853d0772e44b09830800000000000000
+      internalID: 4075955910532453208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_191
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 96
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f33d47c542b58e0800000000000000
+      internalID: -1703728054514008276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_192
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef4880363a94f700800000000000000
+      internalID: 573252610116046830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_193
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 96
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d18b1e5a7628caa0800000000000000
+      internalID: -6140615784912944683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_194
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ed996fcd2709050800000000000000
+      internalID: 5805266213036219973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_195
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 96
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8cf3d6dd4137c80800000000000000
+      internalID: -8326288344824690438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_196
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 96
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2acbaeb93013dd0800000000000000
+      internalID: -2508219549275610428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_197
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318f6d19fbe387100800000000000000
+      internalID: 105903583749666835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_198
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 93
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a79fe89aaa21310800000000000000
+      internalID: 1374348481526332043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_199
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 96
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf8a328d60020dd0800000000000000
+      internalID: -2521452371037745223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_200
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 96
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0874014c49cb63a0800000000000000
+      internalID: -6671017093673748465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_201
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 96
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bdea3fb459fca80800000000000000
+      internalID: -8444366622852981861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_202
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 105
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c472e570c6002a110800000000000000
+      internalID: 1270578508851980108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_203
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 72
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15900530a9ef62640800000000000000
+      internalID: 5055007569203956049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_204
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 72
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a359600057e557a20800000000000000
+      internalID: 3059455378472736058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_205
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 72
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e275b8b9961f090800000000000000
+      internalID: -8002498946082066939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_206
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023e3385d32f14f30800000000000000
+      internalID: 4558190643162374944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_207
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a41548e940d99dc0800000000000000
+      internalID: -3631642608649562967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_208
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f0deb186c746960800000000000000
+      internalID: 7594331658240462720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_209
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 60
+        width: 4
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a382fc386c8be91d0800000000000000
+      internalID: -3342030710707902406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_210
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1cd4871d4fa9820800000000000000
+      internalID: 2925920088434262522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_211
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 72
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd815b6ae48cd050800000000000000
+      internalID: 5826678160268299767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_212
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 72
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2d6816403e41e70800000000000000
+      internalID: 9085135956268733140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_213
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 72
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5b90ad6220cb550800000000000000
+      internalID: 6177815154735560133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_214
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 72
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40269298358b81060800000000000000
+      internalID: 6924487096005124612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_215
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 72
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3ba0257e06db9c0800000000000000
+      internalID: -3909862354857577539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_216
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95876b7847e97ae0800000000000000
+      internalID: -1550954298158381668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_217
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae20345a72ad6e540800000000000000
+      internalID: 5036953097071690474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_218
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bb4f3e9a09805d0800000000000000
+      internalID: -3096065684468876542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_219
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 44
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8887b37f0f6c0e30800000000000000
+      internalID: 4471070642228660365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_220
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 72
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23d582dd987a6b00800000000000000
+      internalID: 822602501185721132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_221
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 72
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3882fe3f8ffb71650800000000000000
+      internalID: 6203638087691479171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_222
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 48
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748ee6bb916b545b0800000000000000
+      internalID: -5384697557816514489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_223
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 48
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64db0b85fc1d9eb50800000000000000
+      internalID: 6623055415501438278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_224
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 48
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01c973ac33a00890800000000000000
+      internalID: -7493810299108474609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_225
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 56
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7cf39f46d6007d0800000000000000
+      internalID: -2954241075109181517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_226
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 40
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bec722fbb8e75020800000000000000
+      internalID: 2330587226106744504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_227
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 40
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a746b6bb08db7c0800000000000000
+      internalID: -4053942547114591683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_228
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 48
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2ff982579aca490800000000000000
+      internalID: -7733620139444145424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_229
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 48
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514434e51049c3290800000000000000
+      internalID: -7909284111972088811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_230
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 48
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97b26e8c36f5f060800000000000000
+      internalID: 6986761136882497438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_231
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 40
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2ec9a5cd40ec370800000000000000
+      internalID: 8344612504023655106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_232
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 40
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bde32e701a229770800000000000000
+      internalID: 8615995287437307312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_233
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db048826f5a164a0800000000000000
+      internalID: -6601813102088156199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_234
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 44
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d3437849a246820800000000000000
+      internalID: 2910498076600057243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_235
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fed50fb552ca1950800000000000000
+      internalID: 6420657892302905072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_236
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 36
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36d3c028a84b3810800000000000000
+      internalID: 1746069167477610043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_237
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 24
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b547a4791edfc360800000000000000
+      internalID: 7192211330846639539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_238
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 24
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8505024c31695e00800000000000000
+      internalID: 1033964500891796877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_239
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 24
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a68696af5447b1b0800000000000000
+      internalID: -5640964830650792284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_240
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 28
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f8a49e5834bb44ca1b4f73e013495b
+      internalID: -1756255597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_241
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6740fca70e626e047be7c5a727d2e57b
+      internalID: 1275036303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_242
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 24
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef9a302d37167c4089d09cec2120b58
+      internalID: -816665689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_243
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 24
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab5e96f0cb747a4e9f35c56e64050ff
+      internalID: -165736703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_244
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 24
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1a09e66c38d1e4996f4db0f0f3aec8
+      internalID: 1183307230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_245
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 28
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00284c98c9e78ce46b54ed2d0169a963
+      internalID: 382328194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_246
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 20
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1265ae59b79760444b27336b4f39c939
+      internalID: 2039320086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_247
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137ae0753a58b1a4e91a1474d63f0760
+      internalID: -630227435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_248
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346852ddec1644c40801efea97647cf0
+      internalID: -1396026904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_249
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d7ea1e773595d4fb82289d6a79acbd
+      internalID: -1428927623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_250
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e67223f48cac947b92f76d258642c5
+      internalID: -1966447646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_251
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0102f414681e9964b99eeb8914152e30
+      internalID: -1128142400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_252
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb788c94f7cf124f8234e442e682f2f
+      internalID: -7746553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_253
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed94b1a6106c324db32d0ee2b8e1bed
+      internalID: 1671277856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Baseball - Players Close View_254
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5da581056cad4f4ebdde0c8e6769567
+      internalID: 1310794094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e2c2aa68900c3ac469a4b6b76a496864
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NES - Baseball - Players Close View_0: -4239924275957598809
+      NES - Baseball - Players Close View_1: 1642314126144254148
+      NES - Baseball - Players Close View_10: -2717499380459781615
+      NES - Baseball - Players Close View_100: -1822140347146225629
+      NES - Baseball - Players Close View_101: -6529896871326546725
+      NES - Baseball - Players Close View_102: -8730427813225981236
+      NES - Baseball - Players Close View_103: -4243009397482880808
+      NES - Baseball - Players Close View_104: -6692540549850110586
+      NES - Baseball - Players Close View_105: -3299641292174489590
+      NES - Baseball - Players Close View_106: -3963926810284749249
+      NES - Baseball - Players Close View_107: -874369694637861060
+      NES - Baseball - Players Close View_108: 907261991298010194
+      NES - Baseball - Players Close View_109: 5023953742062850971
+      NES - Baseball - Players Close View_11: -1519151178300277109
+      NES - Baseball - Players Close View_110: -3685667542282358864
+      NES - Baseball - Players Close View_111: -7568324042398088358
+      NES - Baseball - Players Close View_112: -5491414179988310801
+      NES - Baseball - Players Close View_113: -8941545543430216212
+      NES - Baseball - Players Close View_114: 8564687892851882219
+      NES - Baseball - Players Close View_115: -791890956270876351
+      NES - Baseball - Players Close View_116: 6899899252782312113
+      NES - Baseball - Players Close View_117: 4470149554140444375
+      NES - Baseball - Players Close View_118: 5391248386782387719
+      NES - Baseball - Players Close View_119: -3951345500111722534
+      NES - Baseball - Players Close View_12: -443329806517740725
+      NES - Baseball - Players Close View_120: 5968326589793909028
+      NES - Baseball - Players Close View_121: -8379568741226494946
+      NES - Baseball - Players Close View_122: 4746689545540989299
+      NES - Baseball - Players Close View_123: -5484475605565388024
+      NES - Baseball - Players Close View_124: -1718813070330514856
+      NES - Baseball - Players Close View_125: 2889222014556716458
+      NES - Baseball - Players Close View_126: 2715789623985293105
+      NES - Baseball - Players Close View_127: -1400063207235921468
+      NES - Baseball - Players Close View_128: -1235144455801670216
+      NES - Baseball - Players Close View_129: 1760338321155262041
+      NES - Baseball - Players Close View_13: -6005849166943845686
+      NES - Baseball - Players Close View_130: -184428763120334335
+      NES - Baseball - Players Close View_131: -5909612725508241741
+      NES - Baseball - Players Close View_132: 5536827370318388126
+      NES - Baseball - Players Close View_133: -4075020372958518117
+      NES - Baseball - Players Close View_134: -4591859257233998387
+      NES - Baseball - Players Close View_135: -5840747847843588015
+      NES - Baseball - Players Close View_136: 469171535168286583
+      NES - Baseball - Players Close View_137: -8267716592159665220
+      NES - Baseball - Players Close View_138: -8712807760357550389
+      NES - Baseball - Players Close View_139: -305874889310577463
+      NES - Baseball - Players Close View_14: 1504095618851567264
+      NES - Baseball - Players Close View_140: 9025196638369927353
+      NES - Baseball - Players Close View_141: 8062347387660747824
+      NES - Baseball - Players Close View_142: -2071462609160463699
+      NES - Baseball - Players Close View_143: -2909986638763733176
+      NES - Baseball - Players Close View_144: -254770951612499492
+      NES - Baseball - Players Close View_145: 8774281157007830110
+      NES - Baseball - Players Close View_146: -1057885918360867203
+      NES - Baseball - Players Close View_147: -880653368783687698
+      NES - Baseball - Players Close View_148: -7328240395620325627
+      NES - Baseball - Players Close View_149: 524926466097396880
+      NES - Baseball - Players Close View_15: 787030983628471532
+      NES - Baseball - Players Close View_150: -4756560597407167834
+      NES - Baseball - Players Close View_151: -128910095840214593
+      NES - Baseball - Players Close View_152: 6670682066651242016
+      NES - Baseball - Players Close View_153: 5413010556072457022
+      NES - Baseball - Players Close View_154: 3049032853915569503
+      NES - Baseball - Players Close View_155: 6350667804918040367
+      NES - Baseball - Players Close View_156: -4808081553170939190
+      NES - Baseball - Players Close View_157: 250010089493872126
+      NES - Baseball - Players Close View_158: -752630160730721446
+      NES - Baseball - Players Close View_159: -8246087589410857295
+      NES - Baseball - Players Close View_16: 5908379136515853370
+      NES - Baseball - Players Close View_160: 7432812526957266422
+      NES - Baseball - Players Close View_161: -679637030569833481
+      NES - Baseball - Players Close View_162: 4434420828840239730
+      NES - Baseball - Players Close View_163: -2205913697975686113
+      NES - Baseball - Players Close View_164: 8768790732894584342
+      NES - Baseball - Players Close View_165: 8140248919676064799
+      NES - Baseball - Players Close View_166: 6972721280730155292
+      NES - Baseball - Players Close View_167: -2225671767949179381
+      NES - Baseball - Players Close View_168: -625233112777586865
+      NES - Baseball - Players Close View_169: 4415569392407245159
+      NES - Baseball - Players Close View_17: 3736282424412112025
+      NES - Baseball - Players Close View_170: 1495369278692484221
+      NES - Baseball - Players Close View_171: -2396395219098228969
+      NES - Baseball - Players Close View_172: 7922437269975005690
+      NES - Baseball - Players Close View_173: -79846679039155293
+      NES - Baseball - Players Close View_174: -3450686386346900560
+      NES - Baseball - Players Close View_175: 5854971644584800599
+      NES - Baseball - Players Close View_176: -4639967059952443903
+      NES - Baseball - Players Close View_177: -5833238449521880081
+      NES - Baseball - Players Close View_178: -7407761137515334119
+      NES - Baseball - Players Close View_179: -4529175381106849024
+      NES - Baseball - Players Close View_18: 4588021463858268776
+      NES - Baseball - Players Close View_180: 9089193308886350681
+      NES - Baseball - Players Close View_181: -4269353512166490944
+      NES - Baseball - Players Close View_182: 5251741780827535411
+      NES - Baseball - Players Close View_183: -7588916523753558176
+      NES - Baseball - Players Close View_184: 4052515102734117271
+      NES - Baseball - Players Close View_185: 478737097802933699
+      NES - Baseball - Players Close View_186: -4015348235608324462
+      NES - Baseball - Players Close View_187: 2527784909815709187
+      NES - Baseball - Players Close View_188: -4795580009107538535
+      NES - Baseball - Players Close View_189: 7901650467430826771
+      NES - Baseball - Players Close View_19: 1311087664804737797
+      NES - Baseball - Players Close View_190: 4075955910532453208
+      NES - Baseball - Players Close View_191: -1703728054514008276
+      NES - Baseball - Players Close View_192: 573252610116046830
+      NES - Baseball - Players Close View_193: -6140615784912944683
+      NES - Baseball - Players Close View_194: 5805266213036219973
+      NES - Baseball - Players Close View_195: -8326288344824690438
+      NES - Baseball - Players Close View_196: -2508219549275610428
+      NES - Baseball - Players Close View_197: 105903583749666835
+      NES - Baseball - Players Close View_198: 1374348481526332043
+      NES - Baseball - Players Close View_199: -2521452371037745223
+      NES - Baseball - Players Close View_2: 584851052745895419
+      NES - Baseball - Players Close View_20: 5368817584644950795
+      NES - Baseball - Players Close View_200: -6671017093673748465
+      NES - Baseball - Players Close View_201: -8444366622852981861
+      NES - Baseball - Players Close View_202: 1270578508851980108
+      NES - Baseball - Players Close View_203: 5055007569203956049
+      NES - Baseball - Players Close View_204: 3059455378472736058
+      NES - Baseball - Players Close View_205: -8002498946082066939
+      NES - Baseball - Players Close View_206: 4558190643162374944
+      NES - Baseball - Players Close View_207: -3631642608649562967
+      NES - Baseball - Players Close View_208: 7594331658240462720
+      NES - Baseball - Players Close View_209: -3342030710707902406
+      NES - Baseball - Players Close View_21: -7557724091438512845
+      NES - Baseball - Players Close View_210: 2925920088434262522
+      NES - Baseball - Players Close View_211: 5826678160268299767
+      NES - Baseball - Players Close View_212: 9085135956268733140
+      NES - Baseball - Players Close View_213: 6177815154735560133
+      NES - Baseball - Players Close View_214: 6924487096005124612
+      NES - Baseball - Players Close View_215: -3909862354857577539
+      NES - Baseball - Players Close View_216: -1550954298158381668
+      NES - Baseball - Players Close View_217: 5036953097071690474
+      NES - Baseball - Players Close View_218: -3096065684468876542
+      NES - Baseball - Players Close View_219: 4471070642228660365
+      NES - Baseball - Players Close View_22: -7639939561499815116
+      NES - Baseball - Players Close View_220: 822602501185721132
+      NES - Baseball - Players Close View_221: 6203638087691479171
+      NES - Baseball - Players Close View_222: -5384697557816514489
+      NES - Baseball - Players Close View_223: 6623055415501438278
+      NES - Baseball - Players Close View_224: -7493810299108474609
+      NES - Baseball - Players Close View_225: -2954241075109181517
+      NES - Baseball - Players Close View_226: 2330587226106744504
+      NES - Baseball - Players Close View_227: -4053942547114591683
+      NES - Baseball - Players Close View_228: -7733620139444145424
+      NES - Baseball - Players Close View_229: -7909284111972088811
+      NES - Baseball - Players Close View_23: -1110621457699951163
+      NES - Baseball - Players Close View_230: 6986761136882497438
+      NES - Baseball - Players Close View_231: 8344612504023655106
+      NES - Baseball - Players Close View_232: 8615995287437307312
+      NES - Baseball - Players Close View_233: -6601813102088156199
+      NES - Baseball - Players Close View_234: 2910498076600057243
+      NES - Baseball - Players Close View_235: 6420657892302905072
+      NES - Baseball - Players Close View_236: 1746069167477610043
+      NES - Baseball - Players Close View_237: 7192211330846639539
+      NES - Baseball - Players Close View_238: 1033964500891796877
+      NES - Baseball - Players Close View_239: -5640964830650792284
+      NES - Baseball - Players Close View_24: -4053985463213182920
+      NES - Baseball - Players Close View_240: -1756255597
+      NES - Baseball - Players Close View_241: 1275036303
+      NES - Baseball - Players Close View_242: -816665689
+      NES - Baseball - Players Close View_243: -165736703
+      NES - Baseball - Players Close View_244: 1183307230
+      NES - Baseball - Players Close View_245: 382328194
+      NES - Baseball - Players Close View_246: 2039320086
+      NES - Baseball - Players Close View_247: -630227435
+      NES - Baseball - Players Close View_248: -1396026904
+      NES - Baseball - Players Close View_249: -1428927623
+      NES - Baseball - Players Close View_25: -9141462823813021431
+      NES - Baseball - Players Close View_250: -1966447646
+      NES - Baseball - Players Close View_251: -1128142400
+      NES - Baseball - Players Close View_252: -7746553
+      NES - Baseball - Players Close View_253: 1671277856
+      NES - Baseball - Players Close View_254: 1310794094
+      NES - Baseball - Players Close View_26: -8724874260424897942
+      NES - Baseball - Players Close View_27: 2909666990318721028
+      NES - Baseball - Players Close View_28: 5185349955532358691
+      NES - Baseball - Players Close View_29: 4258589876219713523
+      NES - Baseball - Players Close View_3: 3720516494669047294
+      NES - Baseball - Players Close View_30: -9089071579101481250
+      NES - Baseball - Players Close View_31: 6844804635962082536
+      NES - Baseball - Players Close View_32: 3200416870035654237
+      NES - Baseball - Players Close View_33: 3768406393415793962
+      NES - Baseball - Players Close View_34: 1572752069244924509
+      NES - Baseball - Players Close View_35: 343005140099899113
+      NES - Baseball - Players Close View_36: -2855079063474511096
+      NES - Baseball - Players Close View_37: 9201977717120525811
+      NES - Baseball - Players Close View_38: -7295145282967855448
+      NES - Baseball - Players Close View_39: -1463028116253892392
+      NES - Baseball - Players Close View_4: 7694826964674078302
+      NES - Baseball - Players Close View_40: 1218058349867255349
+      NES - Baseball - Players Close View_41: 7243498917702789392
+      NES - Baseball - Players Close View_42: -3057292997350314360
+      NES - Baseball - Players Close View_43: 7323037412446754299
+      NES - Baseball - Players Close View_44: 6631521929910485766
+      NES - Baseball - Players Close View_45: 5153760199930175888
+      NES - Baseball - Players Close View_46: -5409512783073229
+      NES - Baseball - Players Close View_47: -5583523430567627735
+      NES - Baseball - Players Close View_48: 5819683461438338873
+      NES - Baseball - Players Close View_49: -6560844541237794056
+      NES - Baseball - Players Close View_5: 3898413755178166548
+      NES - Baseball - Players Close View_50: -8928135408513358906
+      NES - Baseball - Players Close View_51: -3582436445838770775
+      NES - Baseball - Players Close View_52: -5832030895598064479
+      NES - Baseball - Players Close View_53: 583805306764676316
+      NES - Baseball - Players Close View_54: 2366048375946397665
+      NES - Baseball - Players Close View_55: 872212783224175459
+      NES - Baseball - Players Close View_56: -2211920606042016765
+      NES - Baseball - Players Close View_57: -3592694542063768139
+      NES - Baseball - Players Close View_58: -6701352287473876772
+      NES - Baseball - Players Close View_59: 2763662191652751641
+      NES - Baseball - Players Close View_6: 5105894918987648982
+      NES - Baseball - Players Close View_60: -1979679839398337168
+      NES - Baseball - Players Close View_61: 5131772591897773498
+      NES - Baseball - Players Close View_62: -3389111670488141266
+      NES - Baseball - Players Close View_63: 7271970119363209507
+      NES - Baseball - Players Close View_64: -6782778156110775047
+      NES - Baseball - Players Close View_65: -313824465735347708
+      NES - Baseball - Players Close View_66: 3711151698080488213
+      NES - Baseball - Players Close View_67: 2418945382449752948
+      NES - Baseball - Players Close View_68: -1631019480861971991
+      NES - Baseball - Players Close View_69: -4264426807998641335
+      NES - Baseball - Players Close View_7: 2710425401852946175
+      NES - Baseball - Players Close View_70: 5299553751691081241
+      NES - Baseball - Players Close View_71: -5914777515443356827
+      NES - Baseball - Players Close View_72: -7193477723708147831
+      NES - Baseball - Players Close View_73: 7566279906992695154
+      NES - Baseball - Players Close View_74: -2978348724612752351
+      NES - Baseball - Players Close View_75: -5978189558332201203
+      NES - Baseball - Players Close View_76: 6940504463444469737
+      NES - Baseball - Players Close View_77: 6764730245907698238
+      NES - Baseball - Players Close View_78: -4303667248118325389
+      NES - Baseball - Players Close View_79: 1430256097416791463
+      NES - Baseball - Players Close View_8: -7104880783530008098
+      NES - Baseball - Players Close View_80: 178176158763103727
+      NES - Baseball - Players Close View_81: 3550193989378974736
+      NES - Baseball - Players Close View_82: 8855409011813495298
+      NES - Baseball - Players Close View_83: 5618959896668149402
+      NES - Baseball - Players Close View_84: 6855260389432666472
+      NES - Baseball - Players Close View_85: -7088268333766527285
+      NES - Baseball - Players Close View_86: 832075460708543384
+      NES - Baseball - Players Close View_87: 3214885022866491904
+      NES - Baseball - Players Close View_88: -6324648465565069573
+      NES - Baseball - Players Close View_89: 4154208076430178907
+      NES - Baseball - Players Close View_9: 2283900877715716831
+      NES - Baseball - Players Close View_90: 8578790535334540140
+      NES - Baseball - Players Close View_91: -4270255427303166542
+      NES - Baseball - Players Close View_92: 7948733810520528868
+      NES - Baseball - Players Close View_93: 2606179044446579849
+      NES - Baseball - Players Close View_94: 5183982451623977741
+      NES - Baseball - Players Close View_95: -4767502473028618484
+      NES - Baseball - Players Close View_96: -5953613548721761101
+      NES - Baseball - Players Close View_97: 6699666247308881150
+      NES - Baseball - Players Close View_98: 332804328172239795
+      NES - Baseball - Players Close View_99: 157925567113293385
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
