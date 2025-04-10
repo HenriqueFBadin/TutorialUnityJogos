@@ -22,7 +22,7 @@ public class BattingManager : MonoBehaviour
 
     private float validStartTime;
     private float validEndTime;
-    
+
     public AudioClip hitSound;
     public AudioClip catchSound;
     private AudioSource audioSource;
@@ -139,6 +139,7 @@ public class BattingManager : MonoBehaviour
         yield return new WaitForSeconds(1f);
 
         ResetCounters();
+        Cursor.visible = true;
         SceneManager.LoadScene("End");
     }
 

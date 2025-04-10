@@ -117,7 +117,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!58 &4384159699589801955
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -169,6 +169,7 @@ MonoBehaviour:
   speed: 5
   walkSprites: []
   frameRate: 0.1
+  isFrozen: 0
 --- !u!82 &8804322204245476065
 AudioSource:
   m_ObjectHideFlags: 0

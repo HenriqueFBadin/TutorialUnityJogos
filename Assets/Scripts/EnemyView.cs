@@ -8,6 +8,7 @@ public class EnemyView : MonoBehaviour
     private bool isMovingToPlayer = false;
     private Rigidbody2D playerRb;
     private float distance;
+    public Animator animator;
     
     void Update()
     {
@@ -23,10 +24,10 @@ public class EnemyView : MonoBehaviour
             else
             {
                 isMovingToPlayer = false;
-                Debug.Log("Inimigo alcançou o jogador!");
                 SceneManager.LoadScene("Batting");
             }
         }
+        animator.SetBool("moving", isMovingToPlayer);
     }
     
     private void StopPlayerMovement(Rigidbody2D plyrRb, PlayerMovement playerMovement)
@@ -41,7 +42,6 @@ public class EnemyView : MonoBehaviour
     private void MoveToPlayer(Rigidbody2D plyrRb, Rigidbody2D objectToMove)
     {
         float step = speed * Time.deltaTime;
-        Debug.Log(objectToMove.transform.position + " "+ plyrRb.transform.position);
         objectToMove.transform.position = Vector2.MoveTowards(objectToMove.transform.position, plyrRb.transform.position, step);
     }
 
