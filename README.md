@@ -1,5 +1,7 @@
 **Por: Henrique Fazzio Badin**
 
+**Link do itch.io do jogo:** https://henriquefbadin.itch.io/tutorial-jogos-henriquefbadin
+
 **Baseball Showdown 2D** é um jogo 2D de baseball que tem como objetivo ganhar uma disputa contra um adversário, rebatendo a bola que ele arremessar.
 
 **Sobre o jogo, objetivo, e como jogar:**
@@ -15,7 +17,6 @@ Caso o jogador consiga acertar a bola pelo menos uma vez, ou forçar o arremessa
 Visualmente, o jogo utiliza sprites inspirados no jogo Baseball do NES, adaptados para um estilo menos pixelado e coerente com o design geral. O sprite original pode ser encontrado em: The Spriters Resource - NES Baseball. Os backgrounds e tilesets foram criados com o auxílio do ChatGPT, e a bola de baseball utilizada no jogo foi extraída do jogo Sonic Dash, disponível em: The Spriters Resource - Sonic Dash.
 A lógica de movimentação, detecção e transição de cenas foi baseada em exemplos e discussões da comunidade Unity, como os tópicos "how to make an object move to another object’s location?" e "how to stop player from moving?" disponíveis no Unity Discussions. Algumas funcionalidades do jogo, como o uso de coroutines para lidar com acertos (Hit), foram implementadas com base em sugestões fornecidas pelo ChatGPT e posteriormente foram utilizadas como base para outros métodos.
 
-**Link do itch.io do jogo:** https://henriquefbadin.itch.io/tutorial-jogos-henriquefbadin
 
 **Pontos abordados na Rubrica
 
