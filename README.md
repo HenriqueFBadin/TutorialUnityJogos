@@ -14,4 +14,4 @@ Caso o jogador consiga acertar a bola pelo menos uma vez, ou forçar o arremessa
 
 Visualmente, o jogo utiliza sprites inspirados no jogo Baseball do NES, adaptados para um estilo menos pixelado e coerente com o design geral. O sprite original pode ser encontrado em: The Spriters Resource - NES Baseball. Os backgrounds e tilesets foram criados com o auxílio do ChatGPT, e a bola de baseball utilizada no jogo foi extraída do jogo Sonic Dash, disponível em: The Spriters Resource - Sonic Dash.
 
-Repositório do jogo: https://github.com/HenriqueFBadin/TutorialUnityJogos.git
+**Link do itch.io do jogo:** https://henriquefbadin.itch.io/tutorial-jogos-henriquefbadin
