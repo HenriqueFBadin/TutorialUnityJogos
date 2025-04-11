@@ -241,4 +241,14 @@ public class BattingManager : MonoBehaviour
 
         Destroy(shadow, 5f);
     }
+
+    public static float GetTotalTime()
+    {
+        return _totalTime;
+    }
+
+    public static void ResetTime()
+    {
+        _totalTime = 0f;
+    }
 }

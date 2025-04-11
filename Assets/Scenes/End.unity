@@ -995,6 +995,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 543053077fafda84a8761886cd0aa2fd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  timeText: {fileID: 882290272}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

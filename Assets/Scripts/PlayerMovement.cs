@@ -12,7 +12,6 @@ public class PlayerMovement : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         audioSrc = GetComponent<AudioSource>();
-
     }
 
     // Update is called once per frame
@@ -20,11 +19,13 @@ public class PlayerMovement : MonoBehaviour
     {
         if (isFrozen)
         {
+            animator.SetBool("frozen", isFrozen);
             return;
         }
         else
         {
             rb.constraints = RigidbodyConstraints2D.None;
+            rb.constraints = RigidbodyConstraints2D.FreezeRotation;
         }
 
         float moveHorizontal = Input.GetAxis("Horizontal");
@@ -37,7 +38,6 @@ public class PlayerMovement : MonoBehaviour
         rb.MovePosition(rb.position + movement);
 
         animator.SetFloat("speed", Mathf.Abs(movement.magnitude));
-        animator.SetBool("frozen", isFrozen);
     }
 
     private void OnTriggerEnter2D(Collider2D collidedObject)

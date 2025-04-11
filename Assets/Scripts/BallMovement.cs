@@ -9,15 +9,15 @@ public class BallMovement : MonoBehaviour
         // Slider,
         ChangeUp
     }
-    
+
     public BattingManager battingManager;
     private PitchType pitchType;
     public float speed = 10f;
     public float spin = 100f;
 
-    public Transform strikeZone;  
+    public Transform strikeZone;
     private Vector3 targetPosition;
-    
+
     private bool hasReachedStrikeZone;
     private float timeToImpact;
     private bool isPitching;  // Flag que indica se a bola está se movendo
@@ -27,10 +27,10 @@ public class BallMovement : MonoBehaviour
     private float changeUpSpeed;
     private float curveBallSpeed;
     private float minSpeed;
-    
+
     void Start()
     {
-        SetRandomTargetPosition(); 
+        SetRandomTargetPosition();
 
         idleStartTime = -1;
         minSpeed = speed * 0.6f;
@@ -47,7 +47,7 @@ public class BallMovement : MonoBehaviour
             else
             {
                 float deltaTime = Time.time - idleStartTime;
-                if (deltaTime >= 21.0f)
+                if (deltaTime >= 6.0f)
                 {
                     int sorteio = Random.Range(0, 2);
                     if (sorteio == 0)
@@ -82,7 +82,7 @@ public class BallMovement : MonoBehaviour
     void MoveBall()
     {
         float step = speed * Time.deltaTime;
-        
+
         if (pitchType == PitchType.FastBall)
         {
             // FastBall: Trajetória reta e rápida
@@ -130,20 +130,20 @@ public class BallMovement : MonoBehaviour
         {
             return zoneCollider.bounds.Contains(transform.position);
         }
-    
+
         return false;
     }
 
     public float GetTimeToImpact()
     {
-        return timeToImpact; 
+        return timeToImpact;
     }
 
     public bool GetIsPitching()
     {
         return isPitching;
     }
-    
+
     void SetRandomTargetPosition()
     {
         float randomX = Random.Range(strikeZone.position.x - 2.0f, strikeZone.position.x + 2.0f);
