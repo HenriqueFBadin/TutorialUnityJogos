@@ -58,7 +58,7 @@ A lógica de movimentação, detecção e transição de cenas foi baseada em ex
       - 2.6.1. Adicionar suporte a joystick/controle xbox ✖️
 
   - 2.7. Level Design: (150 Pontos)
-  - 
+    
       - 2.7.1. Ajustar o jogo a algum tema ✅
         
       - 2.7.2. Criar uma nova arena ou modificar a arena básica ✅
