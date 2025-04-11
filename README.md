@@ -18,7 +18,7 @@ Visualmente, o jogo utiliza sprites inspirados no jogo Baseball do NES, adaptado
 A lógica de movimentação, detecção e transição de cenas foi baseada em exemplos e discussões da comunidade Unity, como os tópicos "how to make an object move to another object’s location?" e "how to stop player from moving?" disponíveis no Unity Discussions. Algumas funcionalidades do jogo, como o uso de coroutines para lidar com acertos (Hit), foram implementadas com base em sugestões fornecidas pelo ChatGPT e posteriormente foram utilizadas como base para outros métodos.
 
 
-**Pontos abordados na Rubrica
+**Pontos abordados na Rubrica**
 
 1. Entregar o tutorial: C (400 Pontos) ✅
    
